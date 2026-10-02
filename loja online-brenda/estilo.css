@@ -1,0 +1,13 @@
+categoria-img {
+  max-width: 80px;
+}
+
+/* Na categoria "Calçados" a imagem original tinha 100px */
+.categoria-img--grande {
+  max-width: 100px;
+}
+
+/* Formulário de newsletter centralizado */
+.newsletter-form {
+  max-width: 500px;
+}
